@@ -5,7 +5,11 @@
 
 ## 系统界面
 
+<<<<<<< HEAD
 初始界面：
+=======
+![系统](./pic1.png)
+>>>>>>> e2f1266c0c49d4ae0730d4cbb98c6a7cd552a04c
 
 ![](./pic1.png)
 
@@ -26,6 +30,7 @@
 近景：
 
 ![](./pic2.png)
+<<<<<<< HEAD
 
 
 
@@ -288,3 +293,5 @@ yolo处理之后把ok的再用RGB检测一次
 ![样品图](https://cdn.nlark.com/yuque/0/2025/png/23187920/1741596304987-1ea27959-76d5-4f77-b654-87fdcc52c43e.png)
 
 ![要求](https://cdn.nlark.com/yuque/0/2025/png/23187920/1741596334366-efdc3288-4206-4e00-bd28-6516bee38bfd.png)
+=======
+>>>>>>> e2f1266c0c49d4ae0730d4cbb98c6a7cd552a04c
